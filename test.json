@@ -1,0 +1,169 @@
+{
+"measures": [
+{
+"id": 1,
+"timestamp": "2016-01-02T07:24:35Z",
+"systolic": 210,
+"diastolic": 125
+},
+{
+"id": 1,
+"timestamp": "2016-01-05T22:31:47Z",
+"systolic": 169,
+"diastolic": 105
+},
+{
+"id": 1,
+"timestamp": "2016-01-08T13:38:59Z",
+"systolic": 187,
+"diastolic": 114
+},
+{
+"id": 2,
+"timestamp": "2016-01-11T04:46:11Z",
+"systolic": 160,
+"diastolic": 100
+},
+{
+"id": 2,
+"timestamp": "2016-01-14T19:53:23Z",
+"systolic": 167,
+"diastolic": 104
+},
+{
+"id": 2,
+"timestamp": "2016-01-17T11:00:35Z",
+"systolic": 176,
+"diastolic": 108
+},
+{
+"id": 3,
+"timestamp": "2016-01-20T02:07:47Z",
+"systolic": 185,
+"diastolic": 113
+},
+{
+"id": 3,
+"timestamp": "2016-01-23T17:14:59Z",
+"systolic": 206,
+"diastolic": 123
+},
+{
+"id": 3,
+"timestamp": "2016-01-26T08:22:11Z",
+"systolic": 173,
+"diastolic": 107
+},
+{
+"id": 3,
+"timestamp": "2016-01-29T23:29:23Z",
+"systolic": 146,
+"diastolic": 93
+},
+{
+"id": 3,
+"timestamp": "2016-02-01T14:36:35Z",
+"systolic": 174,
+"diastolic": 107
+},
+{
+"id": 3,
+"timestamp": "2016-02-04T05:43:47Z",
+"systolic": 201,
+"diastolic": 121
+},
+{
+"id": 3,
+"timestamp": "2016-02-07T20:50:59Z",
+"systolic": 198,
+"diastolic": 119
+},
+{
+"id": 3,
+"timestamp": "2016-02-10T11:58:11Z",
+"systolic": 148,
+"diastolic": 94
+},
+{
+"id": 3,
+"timestamp": "2016-02-13T03:05:23Z",
+"systolic": 154,
+"diastolic": 97
+},
+{
+"id": 4,
+"timestamp": "2016-02-16T18:12:35Z",
+"systolic": 154,
+"diastolic": 97
+},
+{
+"id": 4,
+"timestamp": "2016-02-19T09:19:47Z",
+"systolic": 112,
+"diastolic": 76
+},
+{
+"id": 4,
+"timestamp": "2016-02-22T00:26:59Z",
+"systolic": 156,
+"diastolic": 98
+},
+{
+"id": 4,
+"timestamp": "2016-02-25T15:34:11Z",
+"systolic": 152,
+"diastolic": 96
+},
+{
+"id": 4,
+"timestamp": "2016-02-28T06:41:23Z",
+"systolic": 142,
+"diastolic": 91
+},
+{
+"id": 4,
+"timestamp": "2016-03-02T21:48:35Z",
+"systolic": 104,
+"diastolic": 72
+},
+{
+"id": 4,
+"timestamp": "2016-03-05T12:55:47Z",
+"systolic": 126,
+"diastolic": 83
+},
+{
+"id": 4,
+"timestamp": "2016-03-08T04:02:59Z",
+"systolic": 132,
+"diastolic": 86
+},
+{
+"id": 4,
+"timestamp": "2016-03-11T19:10:11Z",
+"systolic": 144,
+"diastolic": 92
+},
+{
+"id": 4,
+"timestamp": "2016-03-14T10:17:23Z",
+"systolic": 180,
+"diastolic": 110
+},
+{
+"id": 4,
+"timestamp": "2016-03-17T01:24:35Z",
+"systolic": 102,
+"diastolic": 71
+},
+{
+"id": 5,
+"timestamp": "2016-03-20T16:31:47Z",
+"systolic": 128,
+"diastolic": 84
+}
+],
+  "profile": {
+    "name": "fake"
+  }
+}
